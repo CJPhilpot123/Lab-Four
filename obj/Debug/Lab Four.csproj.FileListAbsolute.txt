@@ -1,0 +1,7 @@
+C:\Users\Curtis\source\repos\Lab Four\Lab Four\bin\Debug\Lab Four.exe.config
+C:\Users\Curtis\source\repos\Lab Four\Lab Four\bin\Debug\Lab Four.exe
+C:\Users\Curtis\source\repos\Lab Four\Lab Four\bin\Debug\Lab Four.pdb
+C:\Users\Curtis\source\repos\Lab Four\Lab Four\obj\Debug\Lab Four.csprojAssemblyReference.cache
+C:\Users\Curtis\source\repos\Lab Four\Lab Four\obj\Debug\Lab Four.csproj.CoreCompileInputs.cache
+C:\Users\Curtis\source\repos\Lab Four\Lab Four\obj\Debug\Lab Four.exe
+C:\Users\Curtis\source\repos\Lab Four\Lab Four\obj\Debug\Lab Four.pdb
